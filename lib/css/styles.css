@@ -58,28 +58,7 @@ body{ background-color: #ffc6c7; }
   transition: box-shadow 0.5s;
 }
 
-.cheat {
-  position: absolute;
-  top: 65px;
-  right: 10px;
-  padding: 10px;
-  border-radius: 7px;
-  font-size: 20px;
-  background: #ff8ba7;
-  font-family: fantasy;
-  color: #33272a;
-  width: 150px;
-  box-shadow: 2px 2px 10px #ff8ba7;
-  margin-top: 2px;
-  transition: box-shadow 0.5s;
-}
-
 .about:hover {
-  box-shadow: 2px 2px 20px #ff8ba7;
-  cursor: pointer;
-}
-
-.cheat:hover {
   box-shadow: 2px 2px 20px #ff8ba7;
   cursor: pointer;
 }
